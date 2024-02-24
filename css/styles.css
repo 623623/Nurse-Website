@@ -289,7 +289,7 @@ a:hover {
 	line-height: 90px !important;
 }
 #section-strapline {
-	background: #f00bfff;
+	background: #f00bff;
 	line-height: 42px;
 	clear: both;
 }
@@ -642,7 +642,7 @@ img, video, iframe, embed, object {
 	margin: 2px;
 }
 #contactUs {
-/*background: #005f8d;*/;
+/*background: #005f8d;*/
 }
 #contactUs .btn {
 	border-radius: 0px !important;
@@ -1203,3 +1203,6 @@ nav#filter li {
 .isotopeWrapper article {
 	margin: 0px;
 }
+
+
+/* css3 */
